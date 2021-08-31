@@ -1,0 +1,11 @@
+{
+    "db-connection":{
+        "mongodb":{
+            "host": "cluster0.8i9ri.mongodb.net",
+            "user":"api",
+            "password":"Rjoetsorj8Q3X48G",
+            "dbname":"E-commerceDB"
+        }
+    },
+    "server-port": 3000
+}
